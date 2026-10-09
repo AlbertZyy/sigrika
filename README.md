@@ -1,2 +1,2 @@
-# sigrika
+# Sigrika
 Utilities for AI Agents
